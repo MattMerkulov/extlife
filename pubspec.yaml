@@ -1,0 +1,6 @@
+name: game
+author: Matt Merkulov
+description: Cellular automata examples including J. Conway's Life
+homepage: vk.com/mmatt
+dependencies:
+  browser: any
